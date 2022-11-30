@@ -2,3 +2,5 @@
 PROJECT CONTENT:
 INFORATION ABOUT COVID 19
 WEBPAGES POSTED FOR COVID 19 AWARENESS
+latest graphical report about COVID-19
+latest vaccination update about COVID-19
